@@ -21,3 +21,7 @@
   <a href="https://www.linkedin.com/in/renata-fernandes-95037223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 </div>  
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="renatafernandesctba" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/renatafernandesctba?trk=profile-badge">Renata Fernandes</a></div>
+              
