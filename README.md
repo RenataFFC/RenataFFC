@@ -1,15 +1,15 @@
-
-<div align="rigth" width=15px style="display: inline_block"><br>
-  <div>
-<p> - 🌱 Estudando Front-End, <br>
-    - 📫 Contate-me no e-mail: renatactba@hotmail.com <br>
-    - 😄 Pronouns: ela/dela<br>
-</p> 
-    <img align="right" alt="renata" height="150" style="border-radius:50px;" 
-    src="https://user-images.githubusercontent.com/97262523/193051229-b32a1c7e-499f-47b1-bb8e-ae00aefb0f37.png"   
+<div align="rigth" height="60" width="80" style="display: inline_block"  margem-bottom="20px"><br> 
+    <img align="right" alt="renata" height="150" width="150" style="border-radius:50px;" 
+    src="https://user-images.githubusercontent.com/97262523/193051229-b32a1c7e-499f-47b1-bb8e-ae00aefb0f37.png" margem-bottom="20px">  
 </div>
 
- <div align="center">
+<div>
+    <p>  - 🌱 Estudando Front-End,     </p>
+    <p>  - 📫 Contate-me no e-mail: renatactba@hotmail.com   </p>   
+    <p> - 😄 Pronouns: ela/dela</p>
+</div>
+
+ <div align="center" >
   <a href="https://github.com/RenataFFC/RenataFFC/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenataFFC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenataFFC&layout=compact&langs_count=7&theme=dracula"/>
