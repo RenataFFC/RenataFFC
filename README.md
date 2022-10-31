@@ -1,10 +1,16 @@
-<div align="rigth" height="60" width="80" style="display: inline_block"  margem-bottom="20px"><br> 
-    <img align="right" alt="renata" height="150" width="150" style="border-radius:50px;" 
-    src="https://user-images.githubusercontent.com/97262523/193051229-b32a1c7e-499f-47b1-bb8e-ae00aefb0f37.png" margem-bottom="20px">  
-</div>
+# Hello!! 👋
+
+Sejam bem-vindos(as) ao meu perfil !!!
+
+## Olá, meu nome é Renata
+
+##
+
+
 
 <div>
-    <p>  - 🌱 Estudando Front-End,     </p>
+    <p>  - 🌱 Em transição de carreira     </p>
+    <p> -  🌱 Cursando Graduação Desenvolvimento Mobile e estudando Desenvolvimento Web (Front End)
     <p>  - 📫 Contate-me no e-mail: renatactba@hotmail.com   </p>   
     <p> - 😄 Pronouns: ela/dela</p>
 </div>
@@ -16,15 +22,25 @@
 </div>
 
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Renata-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Renata-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Renata-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- </div>
+ ### Ferramentas e Tecnologias
 
-##
-  
-<div>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60" height="60"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="60" height="60" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
+          
+
+
+    
+    
+ ### Estudando novas tecnologias
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="60" height="60" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60" />  
+    
+  ### Contatos:
+    
   <a href="https://instagram.com/renata_ffc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://discord.gg/renataFernandes#4656" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:renatinhactba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
