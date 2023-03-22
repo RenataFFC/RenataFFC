@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=afe168&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Renata+Fernandes;I'm+41+years+old;I+am+from+Curitiba,+PR;I+study+Mobile+Development+at+University+Positivo;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0b294a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Renata+Fernandes;I+am+from+Curitiba,+PR;I+study+Mobile+Development+at+University+Positivo;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
  <div align="center" >
@@ -37,7 +37,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
  
@@ -48,4 +47,6 @@
   <a href="https://www.linkedin.com/in/renata-fernandes-95037223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  
 </div>  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=afe168&height=120&section=footer"/>
+
 
