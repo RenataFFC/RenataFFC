@@ -2,7 +2,7 @@
   
    ## :v: Olá,  Seja Bem Vindo ao meu Perfil </h2><br>
 
- Meu nome é Renata Fernandes, uma profissional em transição de carreira com uma paixão pela área de Desenvolvimento. Com formação em Processamento de Dados e uma sólida experiência em Recursos Humanos.
+ Meu nome é Renata Fernandes, uma profissional em transição de carreira com uma paixão pela área deTecnologia. Sou formada em Processamento de Dados e uma sólida experiênciaem Gestão de Pessoas.
 
  🎯 Estou sempre buscando formas de aprender coisas novas e melhorar minhas habilidades. acredito que uma das melhores coisas do mundo está em compartilhar nossas experiências e nossos conhecimentos. 
 
@@ -21,6 +21,9 @@
 
 ![React.js](https://img.shields.io/badge/-React.js-a7e842?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-a7e842?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-a7e842?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+<img align="center" alt="MatheusBB-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
  
 ### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-a7e842?style=for-the-badge&logo=visual-studio-code&logoColor=1572B6&labelColor=0D1117)&nbsp;
