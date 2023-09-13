@@ -1,8 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#7f00b2&height=100&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0e662d&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Renata+Fernandes;I+am+from+Curitiba,+PR;I+study+Mobile+Development+at+University+Positivo;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  ### :v: olá! tudo bem?
 
+ Meu nome é Renata Fernandes, uma profissional em transição de carreira com uma paixão pela área de Desenvolvimento. Com formação em Processamento de Dados e uma sólida experiência em Recursos Humanos.
 
+ :sunflower: estou sempre buscando formas de aprender coisas novas e melhorar minhas habilidades. acredito que uma das melhores coisas do mundo está em compartilhar nossas experiências e nossos conhecimentos. 
+
+ :computer: essas são as tecnologias e ferramentas que eu tenho algum tipo de conhecimento:
+ 
  <div align="center" >
   <a href="https://github.com/RenataFFC/RenataFFC/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenataFFC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
