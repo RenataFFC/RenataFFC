@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#004578&height=50&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004578&height=50&section=header"/>
   
   ### :v: olá! tudo bem?
 
@@ -51,6 +51,6 @@
   <a href="https://www.linkedin.com/in/renata-fernandes-95037223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  
 </div>  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#0045782&height=50&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0045782&height=50&section=footer"/>
 
 
