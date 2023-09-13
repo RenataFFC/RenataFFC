@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004578&height=120&section=header"/>
   
-  ### :v: olá! tudo bem?
+   ## :v: Olá,  Seja Bem Vindo ao meu Perfil </h2><br>
 
  Meu nome é Renata Fernandes, uma profissional em transição de carreira com uma paixão pela área de Desenvolvimento. Com formação em Processamento de Dados e uma sólida experiência em Recursos Humanos.
 
- :sunflower: estou sempre buscando formas de aprender coisas novas e melhorar minhas habilidades. acredito que uma das melhores coisas do mundo está em compartilhar nossas experiências e nossos conhecimentos. 
+ 🎯 Estou sempre buscando formas de aprender coisas novas e melhorar minhas habilidades. acredito que uma das melhores coisas do mundo está em compartilhar nossas experiências e nossos conhecimentos. 
 
  :computer: essas são as tecnologias e ferramentas que eu tenho algum tipo de conhecimento:
  
@@ -15,14 +15,14 @@
 </div>
 
 
-### Main skills:
+### Minhas Skills:
 ![HTML](https://img.shields.io/badge/-HTML-0078d4?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-a7e842?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ![React.js](https://img.shields.io/badge/-React.js-a7e842?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-a7e842?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
  
-### Tools:
+### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-a7e842?style=for-the-badge&logo=visual-studio-code&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-a7e842?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-a7e842?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
@@ -40,6 +40,10 @@
 ![React.js](https://img.shields.io/badge/-React.js-a7e842?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-a7e842?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+<div align="center">
+<br><p align="centre"><b>Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusBB}/count.svg" /></p> 
+<br></div>
 
 
 
