@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A2A53&height=120&section=header"/>
 
-![Full stack Developer (1)](https://github.com/MirandaFayra/MirandaFayra/assets/52434685/1ff3527e-1543-4d73-aa43-fd1b88c96af5)
+![Full stack Developer (1)]()
   
    ## :v: Olá,  Seja Bem Vindo ao meu Perfil </h2><br>
 
