@@ -1,6 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A2A53&height=120&section=header"/>
 
-![Full stack Developer (1)]()
+![Developer (1)]()
+
+
+_______________________________________________________________________________________________
+
+<br />
+
   
    ## :v: Olá,  Seja Bem Vindo ao meu Perfil </h2><br>
 
