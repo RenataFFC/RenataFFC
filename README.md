@@ -2,7 +2,7 @@
   
    ## :v: Olá,  Seja Bem Vindo ao meu Perfil </h2><br>
 
- Meu nome é Renata Fernandes, uma profissional em transição de carreira com uma paixão pela área deTecnologia. Sou formada em Processamento de Dados e uma sólida experiênciaem Gestão de Pessoas.
+ Meu nome é Renata Fernandes, uma profissional em transição de carreira com uma paixão pela área deTecnologia. Sou formada em Processamento de Dados e uma sólida experiência em Gestão de Pessoas.
 
  🎯 Estou sempre buscando formas de aprender coisas novas e melhorar minhas habilidades. acredito que uma das melhores coisas do mundo está em compartilhar nossas experiências e nossos conhecimentos. 
 
