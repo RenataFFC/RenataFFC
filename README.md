@@ -1,8 +1,5 @@
 
-![](https://github.com/RenataFFC/RenataFFC/assets/97262523/be9b5945-6fee-4597-8044-bef853d1ee76)
-
-
-
+![bannerRenata](https://github.com/RenataFFC/RenataFFC/assets/97262523/ed1e83ab-7f10-47e5-9002-558355b3881a)
 
 <br />
 
