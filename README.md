@@ -1,23 +1,25 @@
 
-  <p align="right"> 
-<img src="https://github.com/RenataFFC/RenataFFC/assets/97262523/500c927e-f903-406a-a0ce-c01d7a233e87" min-width="300px" max-width="300px" width="300px" align="right">
- </p>
+<p align="right"> 
+   <img src="https://github.com/RenataFFC/RenataFFC/assets/97262523/500c927e-f903-406a-a0ce-c01d7a233e87" min-width="300px" max-width="300px" width="300px" align="right">
+</p>
 
-<br />
+<br/>
 
-  <p align="left"> 
+<p align="left"> 
     :v: Olá,  Seja Bem Vindo ao meu Perfil </h2><br>
+</p>
 
- Meu nome é Renata Fernandes, uma profissional em transição de carreira com uma paixão pela área deTecnologia. Sou formada em Processamento de Dados e uma sólida experiência em Gestão de Pessoas.
- </p>
- 🎯 Estou sempre buscando formas de aprender coisas novas e melhorar minhas habilidades. Acredito que uma das melhores coisas do mundo está em compartilhar nossas experiências e nossos conhecimentos. 
-  <p align="left"> 
- 👨‍💻Tecnologias e ferramentas que eu tenho algum tipo de conhecimento:
- </p>
+<p align="left"> 
+   Meu nome é Renata Fernandes, uma profissional em transição de carreira com uma paixão pela área deTecnologia. Sou formada em Processamento de Dados e uma sólida experiência em Gestão de Pessoas.
+</p>
+
+<p align="left"> 
+  🎯 Estou sempre buscando formas de aprender coisas novas e melhorar minhas habilidades. Acredito que uma das melhores coisas do mundo está em compartilhar nossas experiências e nossos conhecimentos. 
+</p>
 
 ## &nbsp;
 <br>
-<br>
+
  
  <div align="center" >
   <a href="https://github.com/RenataFFC/RenataFFC/">
@@ -74,6 +76,6 @@
   <a href="https://www.linkedin.com/in/renata-fernandes-95037223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  
 </div>  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=070A33&height=120&section=footer"/>
+
 
 
