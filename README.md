@@ -1,21 +1,28 @@
 
-![bannerRenata](https://github.com/RenataFFC/RenataFFC/assets/97262523/ed1e83ab-7f10-47e5-9002-558355b3881a)
+  <p align="right"> 
+<img src="https://github.com/RenataFFC/RenataFFC/assets/97262523/500c927e-f903-406a-a0ce-c01d7a233e87" min-width="300px" max-width="300px" width="300px" align="right">
+ </p>
 
 <br />
 
-  
-   ## :v: Olá,  Seja Bem Vindo ao meu Perfil </h2><br>
+  <p align="left"> 
+    :v: Olá,  Seja Bem Vindo ao meu Perfil </h2><br>
 
  Meu nome é Renata Fernandes, uma profissional em transição de carreira com uma paixão pela área deTecnologia. Sou formada em Processamento de Dados e uma sólida experiência em Gestão de Pessoas.
-
+ </p>
  🎯 Estou sempre buscando formas de aprender coisas novas e melhorar minhas habilidades. Acredito que uma das melhores coisas do mundo está em compartilhar nossas experiências e nossos conhecimentos. 
-
+  <p align="left"> 
  👨‍💻Tecnologias e ferramentas que eu tenho algum tipo de conhecimento:
+ </p>
+
+## &nbsp;
+<br>
+<br>
  
  <div align="center" >
   <a href="https://github.com/RenataFFC/RenataFFC/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenataFFC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenataFFC&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RenataFFC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenataFFC&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## 🛠 &nbsp; Tecnologias que possuo conhecimento
