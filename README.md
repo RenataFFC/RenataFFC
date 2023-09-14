@@ -1,4 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A2A53&height=120&section=header"/>
+
+![Full stack Developer (1)](https://github.com/MirandaFayra/MirandaFayra/assets/52434685/1ff3527e-1543-4d73-aa43-fd1b88c96af5)
   
    ## :v: Olá,  Seja Bem Vindo ao meu Perfil </h2><br>
 
@@ -6,7 +8,7 @@
 
  🎯 Estou sempre buscando formas de aprender coisas novas e melhorar minhas habilidades. Acredito que uma das melhores coisas do mundo está em compartilhar nossas experiências e nossos conhecimentos. 
 
- :computer: essas são as tecnologias e ferramentas que eu tenho algum tipo de conhecimento:
+ 👨‍💻Tecnologias e ferramentas que eu tenho algum tipo de conhecimento:
  
  <div align="center" >
   <a href="https://github.com/RenataFFC/RenataFFC/">
@@ -14,16 +16,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenataFFC&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
-### Minhas Skills:
+## 🛠 &nbsp; Tecnologias que possuo conhecimento
 ![HTML](https://img.shields.io/badge/-HTML-B0C4DE?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-B0C4DE?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
 ![React.js](https://img.shields.io/badge/-React.js-B0C4DE?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-B0C4DE?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-B0C4DE?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-B0C4DE?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-B0C4DE?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-B0C4DE?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-B0C4DE?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![MONGODB](https://img.shields.io/badge/-mongodb-B0C4DE?style=for-the-badge&logo=mongo&labelColor=0D1117)&nbsp;
 
-<img align="center" alt="MatheusBB-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+
  
 ### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-B0C4DE?style=for-the-badge&logo=visual-studio-code&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -31,17 +36,19 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-B0C4DE?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-B0C4DE?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-B0C4DE?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-![Boostrap](https://img.shields.io/badge/-boostrap-B0C4DE?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-B0C4DE?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-B0C4DE?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-B0C4DE?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
+
+
+
 
   
-### Studying in this moment:
+### Estudando no momento:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-B0C4DE?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-B0C4DE?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-B0C4DE?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![NextJS](https://img.shields.io/badge/-NextJs-B0C4DE?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-B0C4DE?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+
+
 
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
