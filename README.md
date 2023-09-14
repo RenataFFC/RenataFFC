@@ -1,8 +1,8 @@
 
-![Developer (1)](https://github.com/RenataFFC/RenataFFC/assets/97262523/be9b5945-6fee-4597-8044-bef853d1ee76)
+![](https://github.com/RenataFFC/RenataFFC/assets/97262523/be9b5945-6fee-4597-8044-bef853d1ee76)
 
 
-_______________________________________________________________________________________________
+
 
 <br />
 
